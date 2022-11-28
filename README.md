@@ -9,8 +9,8 @@ Mi propuesta de solucion al siguiente problema:
  *
  * - Ejemplo: Dado el array [4, 0, 3, 6, 1, 3].
  *
- *           ⏹
- *           ⏹
+ *         ⏹
+ *         ⏹
  *   ⏹💧💧⏹
  *   ⏹💧⏹⏹💧⏹
  *   ⏹💧⏹⏹💧⏹
